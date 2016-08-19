@@ -4,7 +4,7 @@ import smtplib
 
 mail_server = 'smtp.qq.com'
 user = '305835227'
-password = 'leishao4525057'
+password = 'yourpasswd'
 from_addr = '305835227@qq.com'
 to_addr   = 'zhanglei@exclouds.com'
 msg       = '''
